@@ -1,0 +1,3 @@
+The [adjective] [noun] [adverb] [transitive_verb]
+the [adjective] [noun], who [adverb] [intransitive_verb]
+and [intransitive_verb] [adverb].
